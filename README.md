@@ -1,6 +1,6 @@
 # Tensors-for-Beginners
 
-<img src="https://introduction-to-tensors.readthedocs.io/zh-cn/latest/_static/logo.png" width="500">
+<img src="docs\source\_static\logo.png" width="500">
 
 > 视频地址：[张量入门](https://www.bilibili.com/video/BV1aZFDz1Eb5?t=72.4)
 > 

@@ -14,7 +14,6 @@
 代入得
 
 .. math::
-
     \widetilde{\epsilon^1}(\overrightarrow{e_1}) = 
     Q_{11}\epsilon^1(\overrightarrow{e_1}) + 
     Q_{12}\epsilon^2(\overrightarrow{e_1})
@@ -22,8 +21,12 @@
 其中 :math:`\epsilon^1(\overrightarrow{e_1})=1`， :math:`\epsilon^2(\overrightarrow{e_2})=0`
 所以得: :math:`\widetilde{\epsilon^1}(\overrightarrow{e_1})=Q_{1}`
 
-.. image:: images/8-1.png
+.. image:: images/P8/8-1.png
    :scale: 50 %
    :alt: alternate text
    :align: center
 
+所以得
+
+.. math::
+   \widetilde{\epsilon^1} = \widetilde{\epsilon^1}(\vec{e_1}) \epsilon^1 + \widetilde{\epsilon^1}(\vec{e_2}) \epsilon^2

@@ -41,3 +41,13 @@ html_static_path = ['_static']
 html_css_files = [
     'css/style.css',
 ]
+
+# -- 公式颜色配置
+# -- Sphinx ≥ 4.0：默认使用 MathJax 3，用 mathjax3_config
+
+mathjax3_config = {
+    'tex': {
+        'packages': {'[+]': ['xcolor']},
+    }
+}
+

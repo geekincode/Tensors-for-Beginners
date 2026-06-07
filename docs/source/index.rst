@@ -18,7 +18,10 @@ Contents
    1.motivation
    2.tensor_definition
    3.Forward_and_backward_transformations
+   4.Vector_definition
+   5.Vector_transformation_rules
    6.What_is_the_covector
    7.Co-vector_components
    8.Co-vector_transformation_rules
+   sphinx-design
 

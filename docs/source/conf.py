@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_design',
 ]
 
 intersphinx_mapping = {
@@ -39,7 +40,7 @@ html_logo = '_static/logo.png'
 html_static_path = ['_static']
 
 html_css_files = [
-    'css/style.css',
+    'css/custom.css',
 ]
 
 # -- 公式颜色配置

@@ -29,6 +29,7 @@ Contents
    12.Bilinear_forms
    13.A_linear_mapping_is_a_vector-covariant_pair
    14.The_bilinear_form_is_the_covector-covector_pair
+   15.Tensor_Product_VS_Kronecker_Product
    Index_Table
    sphinx-design
 

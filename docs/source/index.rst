@@ -24,5 +24,7 @@ Contents
    7.Co-vector_components
    8.Co-vector_transformation_rules
    9.Linear_maps
+   10.Linear_maps_transformation_rules
+   Index_Table
    sphinx-design
 

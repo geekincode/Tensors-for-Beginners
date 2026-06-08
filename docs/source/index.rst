@@ -26,6 +26,7 @@ Contents
    9.Linear_maps
    10.Linear_maps_transformation_rules
    11.The_metric_tensor
+   12.Bilinear_forms
    Index_Table
    sphinx-design
 

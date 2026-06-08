@@ -23,5 +23,6 @@ Contents
    6.What_is_the_covector
    7.Co-vector_components
    8.Co-vector_transformation_rules
+   9.Linear_maps
    sphinx-design
 

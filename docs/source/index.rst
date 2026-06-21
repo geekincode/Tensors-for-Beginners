@@ -1,6 +1,13 @@
 张量入门
 ===================================
 
+.. image:: _static/logo.png
+   :scale: 80 %
+   :alt: 张量积与克罗内克积
+   :align: center
+
+\
+
 bilibili从Youtube搬运的视频
 `张量入门 <https://www.bilibili.com/video/BV1aZFDz1Eb5?t=72.4>`_
 
